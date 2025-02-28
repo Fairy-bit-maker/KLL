@@ -444,7 +444,7 @@ footer {
     left: 0;
     width: 50px;
     height: 2px;
-    background-color: #3a86ff;
+    background-color: #ff0000;
 }
 
 .footer-links {
@@ -462,7 +462,7 @@ footer {
 }
 
 .footer-links a:hover {
-    color: #3a86ff;
+    color: #ff0000;
 }
 
 .social-icons {
@@ -485,7 +485,7 @@ footer {
 }
 
 .social-icon:hover {
-    background-color: #3a86ff;
+    background-color: #ff0000;
 }
 
 .footer-bottom {
